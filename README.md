@@ -11,16 +11,16 @@ A simple path tracer supporting different materials e.g. diffuse lambertian, met
 
 Here are some rendered images:
 
-![spheres with bunny](light_with_bunny.png "spheres with bunny")
+![spheres with bunny](output_images/light_with_bunny.png "spheres with bunny")
 
-![blocks](blocks_best_quality.png "blocks")
+![blocks](output_images/blocks_best_quality.png "blocks")
 
-![blob](blob_crop.png "blob")
+![blob](output_images/blob_crop.png "blob")
 
-![blob heatmap](blob_heatmap_crop.png "blob heatmap")
+![blob heatmap](output_images/blob_heatmap_crop.png "blob heatmap")
 
-![street](street_maxdepth4_samples1024.png "street")
+![street](output_images/street_maxdepth4_samples1024.png "street")
 
-![street night](street_night.png "street night")
+![street night](output_images/street_night.png "street night")
 
-![room](room_maxdepth5_samples1024.png "room")
+![room](output_images/room_maxdepth5_samples1024.png "room")
